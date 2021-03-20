@@ -1,8 +1,11 @@
 <p id="project-title"><p>
 
-<a href=#table-of-contents>![Expanding Search Bar 1](Assets/inter-004-search-1.png)</a> 
+<a href=#table-of-contents>![Expanding Search Bar 1](Assets/inter-004-search-1.png)</a>
+
+<a href="https://emjose.github.io/expand-search-1">![Expanding Search Bar 1](Assets/preview-004-expanding-search-bar-1.png)</a> 
 
 #
+
 <p id="table-of-contents"><p>
 
 <a href=#table-of-contents>![Table of Contents](Assets/inter-toc.png)</a>  
