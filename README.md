@@ -1,6 +1,17 @@
+<p id="header"><p>
+<table><tr>
+<td> <a href="https://github.com/emjose/progress-bar/#header"><img src="Assets/header-left.png" alt="previous" style="width: 200px;"/></a> </td>
+<td> <a href=#header><img src="Assets/header-center.png" alt="100 days of code" style="width: 580px;"/></a> </td>
+<td> <a href="https://github.com/emjose/expand-search-two/#header"><img src="Assets/header-right.png" alt="next" style="width: 200px;"/></a> </td>
+</tr></table>
+
+<br>
+
 <p id="project-title"><p>
 
 <a href=#table-of-contents>![Expanding Search Bar 1](Assets/inter-004-search-1.png)</a>
+
+<br>
 
 <a href="https://emjose.github.io/expand-search-one">![Expanding Search Bar 1](Assets/preview-004-expanding-search-bar-1.png)</a> 
 
@@ -61,4 +72,4 @@ test
 
 #
 
-<a href=#project-title>![Back to Top](Assets/inter-congrats.png)</a>
+<a href=#header>![Back to Top](Assets/inter-congrats.png)</a>
